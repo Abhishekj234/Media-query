@@ -1,0 +1,16 @@
+
+img{
+    margin-top: 10px;
+}
+
+@media (max-width: 800px){
+    img{
+        width: 45%;
+    }
+} 
+
+@media (max-width: 500px){
+    img{
+        width: 100%;
+    }
+} 
